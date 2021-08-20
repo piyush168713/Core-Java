@@ -11,6 +11,7 @@ public class exam {
         double total, average, percentage;
         Scanner op = new Scanner(System.in);
         /* Input marks of all five subjects */
+        
         System.out.println("Enter marks of five subjects:");
         System.out.print("Enter marks of English subjects:");
         eng = op.nextFloat();

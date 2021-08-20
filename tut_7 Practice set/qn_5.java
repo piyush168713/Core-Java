@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 //qn ---> 5
 //detect whether a number entered by the user is an integer or not
-public class qn_6 {
+public class qn_5 {
     public static void main(String[] args) {
         int a;
         Scanner sc = new Scanner(System.in);

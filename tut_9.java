@@ -14,8 +14,9 @@ public class tut_9 {
         int a = 4;
         int b = 8;
         int c = 2;
-        // int k = x * y / 2;
+        // int m = x * y / 2;
         int k = ((b * b) - (4 * a * c)) / (2 * a);
+        // System.out.println(m);
         System.out.println(k);
 
     }

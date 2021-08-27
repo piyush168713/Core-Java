@@ -13,7 +13,7 @@ public class tut_14 {
         System.out.println(uvalue);
 
         String nonTrimmedString = " Piyush ";
-        // System.out.println(nonTrimmedString);
+        System.out.println(nonTrimmedString);
         System.out.println(nonTrimmedString.trim());
         // String trimmedString = nonTrimmedString.trim();
         // System.out.println(trimmedString);

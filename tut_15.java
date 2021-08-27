@@ -16,13 +16,13 @@ public class tut_15 {
         String letter = "Dear <|name|>, Thanks alot";
         System.out.println(letter.replace("<|name|>", "Piyush"));
 
-        // Problem:
+        // Problem 4:
         // Program to detect double and triple spaces
         String detect = "This is java  tutorial";
         System.out.println(detect.indexOf("  "));
         System.out.println(detect.indexOf("   ")); // This gives -1 because triple space do not exist in it.
 
-        // Problem 3:
+        // Problem 5:
         // program to format the folloeing letter using escape sequence characters.
         String kum = "Heyy Viewers,\n\t Me piyush Kumar.\nThanks";
         System.out.println(kum);

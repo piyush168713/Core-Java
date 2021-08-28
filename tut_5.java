@@ -16,6 +16,8 @@ public class tut_5 {
         // float sum = a + b;
         // System.out.print("Sum of num 1 and num2 is ");
         // System.out.println(sum);
+        
+        // System.out.print("Sum of num 1 and num2 is " + sum);
 
         // boolean b1 = sc.hasNextInt();
         // System.out.println(b1);

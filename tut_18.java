@@ -9,19 +9,19 @@ public class tut_18 {
 
         switch (age) {
             case 18:
-                System.out.println("You are going to become an adult");
+                System.out.println("You are going to become an adult!!!");
                 break;
             case 23:
-                System.out.println("You are going to join a job");
+                System.out.println("You are going to join a job!!!);
                 break;
             case 60:
-                System.out.println("You are going to get retired");
+                System.out.println("You are going to get retired!!!");
                 break;
             default:
-                System.out.println("Enjoy your life");
+                System.out.println("Enjoy your life!!!");
                 break;
         }
-        System.out.println("Thanks you!!!");
+        System.out.println("Thanks you :-)");
 
         // if (age > 56) {
         // System.out.print("You are experienced");

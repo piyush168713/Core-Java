@@ -13,6 +13,7 @@ public class tut_19 {
         // System.out.println("I am not 11");
         // }
 
+        
         // Problem 2:
         // Program to find out whether a student is pass or fail; if it requires total
         // 40% and atleast 33% in each subject to pass. Assume 3 subjects and take marks
@@ -33,6 +34,7 @@ public class tut_19 {
         // System.out.println("Fail");
         // }
 
+        
         // Problem 3:
         // Income tax paid by an employee:
         // Income Slab Tax
@@ -52,6 +54,7 @@ public class tut_19 {
         } else if (income > 10.0) {
             System.out.println("You have to pay 30% tax");
         }
+        
         
         // Problem 4:
         // Program to find out the day of week given the number[1 for Monday, 2 for
@@ -86,6 +89,17 @@ public class tut_19 {
         // default:
         // System.out.println("Done with switch case...Thankyou!!");
         // break;
+        // }
+        
+        // Problem 5:
+        // Program to find whether a year entered by the user is a leap year or not.
+        // int year;
+        // System.out.print("Enter a year: ");
+        // year = sc.nextInt();
+        // if (((year % 4 == 0) && (year % 100 != 0)) || (year % 400 == 0)) {
+        // System.out.print("leap year");
+        // } else {
+        // System.out.print("not leap year");
         // }
     }
 }

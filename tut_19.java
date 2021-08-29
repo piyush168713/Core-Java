@@ -101,5 +101,23 @@ public class tut_19 {
         // } else {
         // System.out.print("not leap year");
         // }
+        
+        // Problem 6:
+        // Program to find out the type of website from url:
+        // .com -> commercial website
+        // .org -> Organisation website
+        // .in -> Indian website
+        String url;
+        System.out.print("Enter a URL: ");
+        url = sc.next();
+        if (url.endsWith(".org")) {
+            System.out.println("This is an organisation website");
+        } else if (url.endsWith(".com")) {
+            System.out.println("This is an Commercial website");
+        } else if (url.endsWith(".in")) {
+            System.out.println("This is an indian website");
+        } else {
+            System.out.println("This website is not exists!!");
+        }
     }
 }

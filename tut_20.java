@@ -10,7 +10,7 @@ public class tut_20 {
         int computer = 0;
         int you = 0;
         System.out.println("***Please have a note***");
-        System.out.println("1. (0) standas for rock\n2. (1) stands for paper\n3. (2) stands for sccisor");
+        System.out.println("1. (0) stands for rock\n2. (1) stands for paper\n3. (2) stands for sccisor");
         for (int i = 0; i < 5; i++) {
             int comp = rand.nextInt(3);
             System.out.println("Select one number among 0, 1 2");

@@ -1,7 +1,9 @@
 public class tut_24 {
     public static void main(String[] args) {
+        
         // Break
 
+        
         // For loop
         // for (int i = 0; i < 40; i++) {
         // System.out.println(i);
@@ -11,6 +13,7 @@ public class tut_24 {
         // }
         // }
 
+        
         // while Loop
         // int i = 1;
         // int result;
@@ -24,6 +27,7 @@ public class tut_24 {
         // }
         // }
 
+        
         // Do-While Loop
         // int i = 0;
         // do {
@@ -35,8 +39,10 @@ public class tut_24 {
         // }
         // } while (i <= 10);
 
+        
         // Continue
 
+        
         // For Loop
         // for (int i = 0; i < 40; i++) {
         // if (i == 5) {
@@ -46,6 +52,7 @@ public class tut_24 {
         // System.out.println(i);
         // }
 
+        
         // While Loop
         // int i = 0;
         // int result;
@@ -59,6 +66,7 @@ public class tut_24 {
         // System.out.println(result);
         // }
 
+        
         // Do-While Loop
         int i = 0;
         do {
@@ -69,5 +77,6 @@ public class tut_24 {
             }
             System.out.println(i);
         } while (i <= 10);
+        
     }
 }

@@ -51,7 +51,7 @@ public class tut_25 {
         System.out.println(fac);
         
         // Problem 5:
-        // 
+        // Repeat 5 using while Loop
 
     }
 }

@@ -7,6 +7,7 @@ public class tut_23 {
         // System.out.println(i);
         // }
 
+        
         Scanner sc = new Scanner(System.in);
 
         int n, result;

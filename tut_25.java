@@ -14,6 +14,7 @@ public class tut_25 {
         // System.out.print("\n");
         // }
 
+        
         // Problem 2:
         // Program to sum first n even number using while loop...
         // int sum = 0;
@@ -24,6 +25,7 @@ public class tut_25 {
         // System.out.print("The sum of even number is: ");
         // System.out.println(sum);
 
+        
         // problem 3:
         // Program to print multiplication table of a given number n......
         // Scanner sc = new Scanner(System.in);
@@ -38,6 +40,7 @@ public class tut_25 {
         // System.out.printf("%d * %d = %d\n", n, i, n * i);
         // }
 
+        
         // Problem 4:
         // Program to find factorial of a given number using for loops.....
         int fac = 1;
@@ -46,6 +49,9 @@ public class tut_25 {
             fac *= i;
         }
         System.out.println(fac);
+        
+        // Problem 5:
+        // 
 
     }
 }

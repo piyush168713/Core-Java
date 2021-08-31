@@ -28,5 +28,11 @@ public class tut_23 {
         // for (int i = 5; i >= 0; i--) {
         // System.out.println(i);
         // }
+        
+        // for (int i = 0; 9 <= 10; i++) {
+        // System.out.println(i);
+        // } 
+        // Infinite For Loop 
+        
     }
 }

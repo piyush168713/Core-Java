@@ -50,6 +50,11 @@ public class tut_25 {
         
         // Problem 5:
         // Repeat 5 using while Loop
+        // int i = 1;
+        // while (true) {
+        // System.out.println("5");
+        // i++;
+        // }
 
     }
 }

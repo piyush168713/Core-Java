@@ -48,6 +48,7 @@ public class tut_25 {
         }
         System.out.println(fac);
         
+        
         // Problem 5:
         // Repeat 5 using while Loop
         // int i = 1;
@@ -55,6 +56,26 @@ public class tut_25 {
         // System.out.println("5");
         // i++;
         // }
+        
+        
+        // Problem 6:
+        // Repeat 1 using For/ while loop
+        // for (int i = 1; 7 > 5; i++) {
+        // System.out.println("1");
+        // }
+        
+        
+        // Problem 7:
+        // Calculate the sum of the numbers occuring in the multiplication table of 8.
+        int sum = 0;
+        int n = 3; // You can change this number a/c to you
+        for (int i = 1; i <= n; i++) {
+            sum = sum + (i * 8);
+        }
+        System.out.println(sum);
+        
+        
+        
 
     }
 }

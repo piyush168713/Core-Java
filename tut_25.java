@@ -75,7 +75,11 @@ public class tut_25 {
         System.out.println(sum);
         
         
-        
+        // Problem 8:
+        // Repeat 2 using for loop
+        // for (int i = 1; 7 > 4; i++) {
+        // System.out.println("2");
+        // }
 
     }
 }

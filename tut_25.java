@@ -15,13 +15,13 @@ public class tut_25 {
         
         // Problem 2:
         // Program to sum first n even number using while loop...
-        // int sum = 0;
-        // int n = 3;
-        // for (int i = 0; i <= n; i++) {
-        // sum = sum + (2 * i);
-        // }
-        // System.out.print("The sum of even number is: ");
-        // System.out.println(sum);
+        int sum = 0;
+        int n = 3;
+        for (int i = 0; i <= n; i++) {
+            sum = sum + (2 * i);
+        }
+        System.out.print("The sum of even number is: ");
+        System.out.println(sum);
 
         
         // problem 3:

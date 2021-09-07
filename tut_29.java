@@ -10,6 +10,7 @@ public class tut_29 {
         // }
         // System.out.println("The sum is: " + sum);
 
+        
         // Problem 2:
         // Write a program to find out whether a given integer is present in an array or
         // not.
@@ -28,6 +29,7 @@ public class tut_29 {
         // System.out.println("The value is not present in the Array");
         // }
 
+        
         // Problem 3:
         // Calculate the average marks from an array containing marks of all students in
         // physics using a for-each loop.
@@ -38,6 +40,7 @@ public class tut_29 {
         // }
         // System.out.println("The value of average marks is " + sum / marks.length);
 
+        
         // Problem 4:
         // Create a Java program to add two matrices of size 2x3
         // int[][] mat1 = { { 1, 2, 3 }, { 4, 5, 6 } };
@@ -60,6 +63,7 @@ public class tut_29 {
         // System.out.println(""); // Prints a new line
         // }
 
+        
         // Problem 5:
         // Write a Java program to reverse an array.
         // int[] arr = { 1, 21, 3, 4, 5, 34, 67 };
@@ -80,6 +84,7 @@ public class tut_29 {
         // System.out.print(element + " ");
         // }
 
+        
         // Problem 6:
         // Write a Java program to find the maximum element in an array.
         // int[] arr = { 1, 2100, 3, 455, 5, 34, 67 };
@@ -93,6 +98,7 @@ public class tut_29 {
         // max);
         // int[] arr = { 1, 2100, 3, 455, 5, 34, 67 };
 
+        
         // Problem 7:
         // Write a Java program to find the minimum element in an array.
         // int[] arr = { 1, 2100, 3, 455, 5, 34, 67 };
@@ -105,6 +111,7 @@ public class tut_29 {
         // System.out.println("the value of the minimum element in this array is: " +
         // min);
 
+        
         // Problem 8:
         // Write a Java program to find whether an array is sorted or not.
         boolean isSorted = true;
@@ -120,5 +127,7 @@ public class tut_29 {
         } else {
             System.out.println("The Array is not sorted");
         }
+        
+        
     }
 }

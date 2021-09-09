@@ -9,6 +9,7 @@ public class tut_22 {
         // } while (i <= 10);
 
         Scanner sc = new Scanner(System.in);
+        
         int i = 1;
         int n, result;
         System.out.print("Enter a no. : ");

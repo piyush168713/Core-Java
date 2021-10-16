@@ -18,7 +18,6 @@ public class tut_9 {
         int k = ((b * b) - (4 * a * c)) / (2 * a);
         // System.out.println(m);
         System.out.println(k);
-
-        
+  
     }
 }

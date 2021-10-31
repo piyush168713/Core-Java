@@ -35,8 +35,6 @@ public class tut_18 {
         // else {
         // System.out.print("You are not experienced");
         // }
-
-                                   
-                                   
+                                                            
     }
 }

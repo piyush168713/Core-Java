@@ -6,7 +6,6 @@ class outer{
         inner in = new inner();
         in.display();
     }
-
     class inner{
         void display(){
             System.out.println("Display: outer_x = " + outer_x);
@@ -20,9 +19,7 @@ public class Nested_cls_9 {
         ou.test();
     }
 }
-//
-//
-//
+
 
 
 

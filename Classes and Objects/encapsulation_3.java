@@ -14,7 +14,7 @@ public void setname(String newName){
 public class encapsulation_3 {
     public static void main(String[] args) {
         person p = new person();
-        p.setname("Piyush");
+        p.setname("Sheetal");
         System.out.println(p.getname());
     }
 }

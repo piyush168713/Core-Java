@@ -54,3 +54,35 @@ package String_Handling;
 //         trim() and strip() Method
 
 
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+import java.io.*;
+
+class StringTrim {
+    public static void main(String[] args)
+    throws IOException
+    {
+//        String s = "   Hello World   ".trim();
+//        System.out.println(s);
+
+        // create a BufferReader using System.in
+        BufferedReader br = new
+                BufferedReader(new InputStreamReader(System.in));
+        String str;
+
+        System.out.println("Enter 'stop' to quit.");
+        System.out.println("Enter state: ");
+        do{
+            str = br.readLine();
+            str = str.trim();   // remove whitespace
+            if(str.equals("Punjab"))
+                System.out.println("Capital is Chandigarh.");
+            else if (str.equals("Uttarakhand"))
+                System.out.println("Capital is Dehradun.");
+            else if(str.equals("Haryana"))
+                System.out.println("Capital is Chandigarh.");
+            else if(str.equals("Chandigarh"))
+                System.out.println("Capital is Chandigarh.");
+        } while (!str.equals("stop"));
+    }
+}

@@ -4,6 +4,7 @@ public class String_Buffer_6 {
     public static void main(String[] args) {
 
         // insert()
+        
 //        StringBuffer sb = new StringBuffer("I Java!");
 //
 //        sb.insert(2, "like ");
@@ -12,6 +13,7 @@ public class String_Buffer_6 {
 
 
         // reverse()
+        
 //        StringBuffer s = new StringBuffer("abcdef");
 //
 //        System.out.println(s);
@@ -34,6 +36,7 @@ public class String_Buffer_6 {
 
 
         // replace()
+        
 //        StringBuffer sb = new StringBuffer("This is a high trek.");
 //
 //        System.out.println("Before replace: " + sb);
@@ -43,6 +46,7 @@ public class String_Buffer_6 {
 
 
         // substring()
+        
         StringBuffer sb = new StringBuffer("one two one");
         int i;
 
@@ -51,6 +55,5 @@ public class String_Buffer_6 {
 
         i = sb.lastIndexOf("one");
         System.out.println("Last index: " + i);
-
     }
 }

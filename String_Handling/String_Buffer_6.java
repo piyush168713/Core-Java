@@ -55,8 +55,6 @@ public class String_Buffer_6 {
 
         i = sb.lastIndexOf("one");
         System.out.println("Last index: " + i);
-        
-            
-        
+   
     }
 }

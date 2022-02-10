@@ -27,3 +27,4 @@ public class Access_Control_7 {
         System.out.println("a, b and c: " + obj.a + " " + obj.b + " " + obj.getc());
     }
 }
+
